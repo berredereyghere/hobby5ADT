@@ -7,3 +7,13 @@ Mijn hobby is alles met computers doen. Ik vindt hardware heel leuk maar ook all
 
 ---
 
+### Mijn favoriete activiteiten van mijn hobby:
+
+- Ik vindt het heel leuk als je net een nieuwe container/lxc/vm hebt opgezet en je mag hem configureren via een web gui. 
+
+- Ik vindt het ook zeer leuk om veel tijd te steken in dashboards.
+
+- Wat ook leuk is als je een dashboard hebt kunnen installeren en je moet nog heel veel zelf doen. Zoals bij home assistant.
+
+---
+
