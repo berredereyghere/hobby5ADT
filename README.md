@@ -17,3 +17,9 @@ Mijn hobby is alles met computers doen. Ik vindt hardware heel leuk maar ook all
 
 ---
 
+### Hoe installer ik homeassistant op een proxmox server?
+
+1. Eerst begin je met een lxc aan te maken in proxmox. *(Je kan ook gebruik maken van een vm. Maar die gebruiken meer resources en duren langer om op te zetten.)* Je kan kiezen van welke distributie. Ik persoonelijk vindt Ubuntu/Debian de beste omdat het heel stabiel is en omdat ik die het meest gebruikt. CentOS heb ik nog nooit geprobeerd.  
+
+2. Nu dat je je lxc hebt gemaakt. Log je in op proxmox in je lxc. Of als je het ip address al weet ssh gebruiken.
+
