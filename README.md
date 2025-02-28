@@ -23,3 +23,10 @@ Mijn hobby is alles met computers doen. Ik vindt hardware heel leuk maar ook all
 
 2. Nu dat je je lxc hebt gemaakt. Log je in op proxmox in je lxc. Of als je het ip address al weet ssh gebruiken.
 
+3. Nu dat je de lxc gemaakt hebt en verbonden bent gaan we docker installeren om homeassistant te installeren. Docker kan je gemakkelijk installeren met hun script dat op hun website staat.
+
+4. Nu hebben we docker geinstallerd. Ik gebruik graag een extra gui. Dus is dit een extra stap die onodig is. Daarom zullen we portainer installeren. Dit die je met het command "docker pull portainer" als je dit command het uitgevoerd zal je de portainer container gemaakt worden. Dan zal normaal zien dat het aan het runnen is met "docker -ps". Als hij aan het runnen is, kan je naar je browser gaan en dan het ip intypen en dan ":9443" dus het totaal plaatje ziet er al volgd uit: [je ip]:9443.
+
+5. Nu dat we portainer hebben geinstallerd kunnen we beginnen met homeassistant te installeren. Ga naar portainer log in, en druk op "stacks". Dan kan je de stack invoegen die op de homeassistant website staat. Als je de stack hebt toegevoegd. Kan je dan op deploy drukken en dan zal normaal de homeassitant container gemaakt worden. 
+6. Nu hebben we homeassistant geinstallerd. Je kan er naar toegaan via [je ip]:8123 
+
