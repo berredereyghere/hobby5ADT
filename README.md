@@ -33,3 +33,51 @@ Mijn hobby is alles met computers doen. Ik vindt hardware heel leuk maar ook all
 ![home assitant pic](home.png)
 
 ---
+
+
+### **Citaat en Codeblok**  
+
+> "Home Assistant brengt de kracht van domotica naar iedereen, met volledige controle en eindeloze mogelijkheden."  
+
+Hier is een voorbeeld van een **Home Assistant Lovelace-configuratie** voor een **keuken-scènecontroller** met aangepaste knoppen:  
+
+```yaml
+- type: vertical-stack
+  cards:
+    - type: 'custom:button-card'
+      color_type: label-card
+      color: rgb(44, 109, 214)
+      name: Kitchen
+    - type: horizontal-stack
+      cards:
+        - type: 'custom:button-card'
+          entity: switch.kitchen_scene_1
+          color_type: card
+          color: rgb(66, 134, 244)
+          icon: mdi:numeric-1-box-outline
+        - type: 'custom:button-card'
+          entity: switch.kitchen_scene_2
+          color_type: card
+          color: rgb(66, 134, 244)
+          icon: mdi:numeric-2-box-outline
+        - type: 'custom:button-card'
+          entity: switch.kitchen_scene_3
+          color_type: card
+          color: rgb(66, 134, 244)
+          icon: mdi:numeric-3-box-outline
+        - type: 'custom:button-card'
+          entity: switch.kitchen_scene_4
+          color_type: card
+          color: rgb(66, 134, 244)
+          icon: mdi:numeric-4-box-outline
+        - type: 'custom:button-card'
+          entity: switch.kitchen_off
+          color_type: card
+          color: rgb(66, 134, 244)
+          icon: mdi:eye-off-outline
+```
+
+Dit YAML-bestand voegt een **verticale stapel** toe in je Lovelace-dashboard met een kopkaart en een rij van knoppen om scènes in je keuken te bedienen. 
+
+---
+
