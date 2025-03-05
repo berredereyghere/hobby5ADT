@@ -48,7 +48,7 @@ Mijn hobby is alles met computers doen. Ik vindt hardware heel leuk maar ook all
 ### Video
 
 Als je liever een video volgt hier is een goede:
-![video](https://www.youtube.com/watch?v=S-itdbqwj4I)
+[![video](https://img.youtube.com/vi/S-itdbqwj4I/0.jpg)](https://www.youtube.com/watch?v=S-itdbqwj4I)
 
 ---
 
