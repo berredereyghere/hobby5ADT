@@ -98,3 +98,15 @@ Dit YAML-bestand voegt een **verticale stapel** toe in je Lovelace-dashboard met
 
 ---
 
+### Geschatte kosten
+
+| Benodigheiden                                | Geschatte kosten |
+| -------------------------------------------- | ---------------- |
+| Intel nuc // als server                      | €340             |
+| 32 GB ram upgrade                            | €80              |
+| 512 GB ssd // van het merk lexar             | €60              |
+| (usb voor proxmox op te zetten)              | €15              |
+| (scherm)                                     | €100             |
+| (toetsenbord en muis)                        | €45              |
+
+---
