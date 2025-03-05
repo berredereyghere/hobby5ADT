@@ -110,3 +110,9 @@ Dit YAML-bestand voegt een **verticale stapel** toe in je Lovelace-dashboard met
 | (toetsenbord en muis)                        | €45              |
 
 ---
+
+### Opmerkingen
+
+💡 Tip: Als je Home Assistant gebruikt op Proxmox, zorg er dan voor dat je back-ups maakt voordat je grote wijzigingen doorvoert. Dit voorkomt problemen als er iets misgaat.
+
+📌 Extra gedachte: Wat we nu gedaan hebben is de moeilijke manier je kan nog altijd ook de [Proxmox Helper Scripts](https://community-scripts.github.io/ProxmoxVE/scripts?id=pingvin) gebruiken voor veel meer dan alleen homeassistant.	
