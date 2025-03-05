@@ -41,14 +41,14 @@ Mijn hobby is alles met computers doen. Ik vindt hardware heel leuk maar ook all
 5. Nu dat we portainer hebben geinstallerd kunnen we beginnen met homeassistant te installeren. Ga naar portainer log in, en druk op "stacks". Dan kan je de stack invoegen die op de [homeassistant website](https://www.home-assistant.io/installation/alternative#docker-compose) staat. Als je de stack hebt toegevoegd. Kan je dan op deploy drukken en dan zal normaal de homeassitant container gemaakt worden. 
 6. Nu hebben we homeassistant geinstallerd. Je kan er naar toegaan via [je ip]:8123 
 
+<img src="home.png" width="320" height="320">
+
 ---
 
 ### Video
 
 Als je liever een video volgt hier is een goede:
 <video src="video.mp4" width="320" height="240" controls></video>
-
-<img src="home.png" width="320" height="320">
 
 ---
 
